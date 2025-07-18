@@ -1,0 +1,553 @@
+SanctionID,Reason,CustomerID
+SANC146,Terrorist Financing,CUST2383
+SANC292,Terrorist Financing,CUST3617
+SANC199,Terrorist Financing,CUST2931
+SANC060,Terrorist Financing,CUST3849
+SANC271,Terrorist Financing,CUST0483
+SANC162,Terrorist Financing,CUST0162
+SANC510,Terrorist Financing,CUST0600
+SANC220,Terrorist Financing,CUST1398
+SANC548,Terrorist Financing,CUST0849
+SANC085,Terrorist Financing,CUST4548
+SANC157,Terrorist Financing,CUST3680
+SANC020,Terrorist Financing,CUST1506
+SANC128,Terrorist Financing,CUST2241
+SANC161,Terrorist Financing,CUST3142
+SANC125,Terrorist Financing,CUST3012
+SANC506,Terrorist Financing,CUST0890
+SANC402,Terrorist Financing,CUST2123
+SANC127,Terrorist Financing,CUST3218
+SANC332,Terrorist Financing,CUST4456
+SANC090,Terrorist Financing,CUST1053
+SANC007,Terrorist Financing,CUST3005
+SANC509,Terrorist Financing,CUST0600
+SANC251,Terrorist Financing,CUST3527
+SANC525,Terrorist Financing,CUST2140
+SANC074,Terrorist Financing,CUST0911
+SANC370,Terrorist Financing,CUST0845
+SANC041,Terrorist Financing,CUST4082
+SANC461,Terrorist Financing,CUST2311
+SANC297,Terrorist Financing,CUST1193
+SANC029,Terrorist Financing,CUST1311
+SANC496,Terrorist Financing,CUST3868
+SANC014,Terrorist Financing,CUST0977
+SANC527,Terrorist Financing,CUST2140
+SANC185,Terrorist Financing,CUST0771
+SANC028,Terrorist Financing,CUST2673
+SANC314,Terrorist Financing,CUST2007
+SANC176,Terrorist Financing,CUST1357
+SANC037,Terrorist Financing,CUST3347
+SANC082,Terrorist Financing,CUST2173
+SANC374,Terrorist Financing,CUST2372
+SANC345,Terrorist Financing,CUST1147
+SANC154,Terrorist Financing,CUST0123
+SANC415,Terrorist Financing,CUST0073
+SANC040,Terrorist Financing,CUST1216
+SANC521,Terrorist Financing,CUST4915
+SANC528,Terrorist Financing,CUST1147
+SANC549,Terrorist Financing,CUST0849
+SANC497,Terrorist Financing,CUST2477
+SANC298,Terrorist Financing,CUST1707
+SANC107,Terrorist Financing,CUST2683
+SANC088,Terrorist Financing,CUST3956
+SANC484,Terrorist Financing,CUST4899
+SANC495,Terrorist Financing,CUST3622
+SANC212,Terrorist Financing,CUST2043
+SANC130,Terrorist Financing,CUST0460
+SANC217,Terrorist Financing,CUST2490
+SANC260,Terrorist Financing,CUST1946
+SANC036,Terrorist Financing,CUST4682
+SANC288,Terrorist Financing,CUST0967
+SANC427,Terrorist Financing,CUST0529
+SANC178,Terrorist Financing,CUST3235
+SANC453,Terrorist Financing,CUST2210
+SANC295,Terrorist Financing,CUST0664
+SANC358,Terrorist Financing,CUST0179
+SANC202,Terrorist Financing,CUST3016
+SANC119,Terrorist Financing,CUST0394
+SANC418,Terrorist Financing,CUST0714
+SANC042,Terrorist Financing,CUST3976
+SANC520,Terrorist Financing,CUST0816
+SANC435,Terrorist Financing,CUST3936
+SANC526,Terrorist Financing,CUST2140
+SANC215,Terrorist Financing,CUST1111
+SANC182,Terrorist Financing,CUST3338
+SANC309,Terrorist Financing,CUST4691
+SANC054,Terrorist Financing,CUST3998
+SANC110,Terrorist Financing,CUST3494
+SANC483,Terrorist Financing,CUST0095
+SANC334,Terrorist Financing,CUST1106
+SANC203,Terrorist Financing,CUST1585
+SANC397,Terrorist Financing,CUST3455
+SANC134,Terrorist Financing,CUST1153
+SANC518,Terrorist Financing,CUST1741
+SANC317,Terrorist Financing,CUST3117
+SANC536,Terrorist Financing,CUST4562
+SANC493,Terrorist Financing,CUST4039
+SANC441,Terrorist Financing,CUST0672
+SANC051,Terrorist Financing,CUST0530
+SANC103,Terrorist Financing,CUST2497
+SANC258,Terrorist Financing,CUST4778
+SANC177,Terrorist Financing,CUST0485
+SANC053,Terrorist Financing,CUST2968
+SANC307,Terrorist Financing,CUST3642
+SANC181,Terrorist Financing,CUST4501
+SANC541,Terrorist Financing,CUST3141
+SANC308,Terrorist Financing,CUST3432
+SANC444,Terrorist Financing,CUST1502
+SANC219,Terrorist Financing,CUST4859
+SANC265,Terrorist Financing,CUST2615
+SANC242,Terrorist Financing,CUST4306
+SANC061,Terrorist Financing,CUST1438
+SANC388,Terrorist Financing,CUST0798
+SANC264,Terrorist Financing,CUST4842
+SANC306,Terrorist Financing,CUST2264
+SANC352,Terrorist Financing,CUST2471
+SANC068,Terrorist Financing,CUST4429
+SANC468,Terrorist Financing,CUST1981
+SANC008,Terrorist Financing,CUST0061
+SANC372,Terrorist Financing,CUST0698
+SANC316,Terrorist Financing,CUST3572
+SANC491,Terrorist Financing,CUST0248
+SANC232,Drug Trafficking,CUST1682
+SANC480,Drug Trafficking,CUST2349
+SANC443,Drug Trafficking,CUST0899
+SANC222,Drug Trafficking,CUST1528
+SANC113,Drug Trafficking,CUST2848
+SANC392,Drug Trafficking,CUST2330
+SANC173,Drug Trafficking,CUST0149
+SANC437,Drug Trafficking,CUST0267
+SANC247,Drug Trafficking,CUST1453
+SANC230,Drug Trafficking,CUST2132
+SANC160,Drug Trafficking,CUST3981
+SANC552,Drug Trafficking,CUST2418
+SANC137,Drug Trafficking,CUST3582
+SANC234,Drug Trafficking,CUST0068
+SANC030,Drug Trafficking,CUST4409
+SANC236,Drug Trafficking,CUST3606
+SANC084,Drug Trafficking,CUST1067
+SANC346,Drug Trafficking,CUST4214
+SANC159,Drug Trafficking,CUST1798
+SANC214,Drug Trafficking,CUST0680
+SANC448,Drug Trafficking,CUST1435
+SANC451,Drug Trafficking,CUST0508
+SANC168,Drug Trafficking,CUST1242
+SANC485,Drug Trafficking,CUST2267
+SANC012,Drug Trafficking,CUST3110
+SANC382,Drug Trafficking,CUST2949
+SANC259,Drug Trafficking,CUST4052
+SANC478,Drug Trafficking,CUST0273
+SANC538,Drug Trafficking,CUST3361
+SANC191,Drug Trafficking,CUST3011
+SANC001,Drug Trafficking,CUST1347
+SANC369,Drug Trafficking,CUST2548
+SANC257,Drug Trafficking,CUST3831
+SANC473,Drug Trafficking,CUST2005
+SANC381,Drug Trafficking,CUST0759
+SANC416,Drug Trafficking,CUST4194
+SANC069,Drug Trafficking,CUST2226
+SANC529,Drug Trafficking,CUST1147
+SANC261,Drug Trafficking,CUST2034
+SANC300,Drug Trafficking,CUST0523
+SANC363,Drug Trafficking,CUST0768
+SANC025,Drug Trafficking,CUST2138
+SANC434,Drug Trafficking,CUST2557
+SANC248,Drug Trafficking,CUST1791
+SANC378,Drug Trafficking,CUST4757
+SANC109,Drug Trafficking,CUST1138
+SANC083,Drug Trafficking,CUST3673
+SANC533,Drug Trafficking,CUST1159
+SANC186,Drug Trafficking,CUST4427
+SANC268,Drug Trafficking,CUST2399
+SANC114,Drug Trafficking,CUST2457
+SANC547,Drug Trafficking,CUST0853
+SANC098,Drug Trafficking,CUST4123
+SANC027,Drug Trafficking,CUST4543
+SANC396,Drug Trafficking,CUST1747
+SANC039,Drug Trafficking,CUST1965
+SANC325,Drug Trafficking,CUST0670
+SANC380,Drug Trafficking,CUST1557
+SANC498,Drug Trafficking,CUST2276
+SANC412,Drug Trafficking,CUST2320
+SANC187,Drug Trafficking,CUST2546
+SANC535,Drug Trafficking,CUST4562
+SANC233,Drug Trafficking,CUST4270
+SANC274,Drug Trafficking,CUST4251
+SANC324,Drug Trafficking,CUST0407
+SANC255,Drug Trafficking,CUST0851
+SANC543,Drug Trafficking,CUST2747
+SANC475,Drug Trafficking,CUST1852
+SANC132,Drug Trafficking,CUST3387
+SANC179,Drug Trafficking,CUST2665
+SANC272,Drug Trafficking,CUST2419
+SANC320,Drug Trafficking,CUST1904
+SANC200,Drug Trafficking,CUST3503
+SANC208,Drug Trafficking,CUST4858
+SANC330,Drug Trafficking,CUST3736
+SANC138,Drug Trafficking,CUST1331
+SANC227,Drug Trafficking,CUST3114
+SANC066,Drug Trafficking,CUST3126
+SANC163,Drug Trafficking,CUST0294
+SANC391,Drug Trafficking,CUST3211
+SANC156,Drug Trafficking,CUST3692
+SANC031,Drug Trafficking,CUST1150
+SANC507,Drug Trafficking,CUST0600
+SANC463,Drug Trafficking,CUST0029
+SANC355,Drug Trafficking,CUST4104
+SANC269,Drug Trafficking,CUST1746
+SANC439,Drug Trafficking,CUST0835
+SANC348,Drug Trafficking,CUST3669
+SANC446,Drug Trafficking,CUST0050
+SANC023,Drug Trafficking,CUST0243
+SANC403,Drug Trafficking,CUST4381
+SANC165,Drug Trafficking,CUST4593
+SANC017,Drug Trafficking,CUST3740
+SANC147,Drug Trafficking,CUST4011
+SANC250,Drug Trafficking,CUST0870
+SANC035,Drug Trafficking,CUST1653
+SANC532,Drug Trafficking,CUST1159
+SANC356,Drug Trafficking,CUST2551
+SANC072,Drug Trafficking,CUST3709
+SANC464,Drug Trafficking,CUST0392
+SANC105,Drug Trafficking,CUST3203
+SANC124,Drug Trafficking,CUST3141
+SANC531,Drug Trafficking,CUST1159
+SANC043,Drug Trafficking,CUST1334
+SANC377,Drug Trafficking,CUST2280
+SANC417,Drug Trafficking,CUST3059
+SANC340,Drug Trafficking,CUST2389
+SANC153,Drug Trafficking,CUST4753
+SANC379,Drug Trafficking,CUST3687
+SANC499,Drug Trafficking,CUST1380
+SANC436,Money Laundering,CUST1244
+SANC204,Money Laundering,CUST2617
+SANC071,Money Laundering,CUST3225
+SANC410,Money Laundering,CUST4851
+SANC155,Money Laundering,CUST0229
+SANC385,Money Laundering,CUST4815
+SANC280,Money Laundering,CUST0629
+SANC108,Money Laundering,CUST4613
+SANC312,Money Laundering,CUST4217
+SANC206,Money Laundering,CUST0528
+SANC097,Money Laundering,CUST1703
+SANC329,Money Laundering,CUST2944
+SANC471,Money Laundering,CUST2281
+SANC545,Money Laundering,CUST2787
+SANC032,Money Laundering,CUST3299
+SANC197,Money Laundering,CUST3994
+SANC184,Money Laundering,CUST4078
+SANC393,Money Laundering,CUST2626
+SANC492,Money Laundering,CUST3176
+SANC481,Money Laundering,CUST4138
+SANC253,Money Laundering,CUST3732
+SANC243,Money Laundering,CUST1321
+SANC198,Money Laundering,CUST1425
+SANC106,Money Laundering,CUST2846
+SANC046,Money Laundering,CUST2816
+SANC322,Money Laundering,CUST4136
+SANC387,Money Laundering,CUST0202
+SANC433,Money Laundering,CUST2465
+SANC303,Money Laundering,CUST3412
+SANC262,Money Laundering,CUST1948
+SANC095,Money Laundering,CUST2402
+SANC266,Money Laundering,CUST3092
+SANC404,Money Laundering,CUST2688
+SANC426,Money Laundering,CUST2093
+SANC078,Money Laundering,CUST4048
+SANC141,Money Laundering,CUST3647
+SANC301,Money Laundering,CUST2492
+SANC237,Money Laundering,CUST2904
+SANC447,Money Laundering,CUST3376
+SANC228,Money Laundering,CUST4415
+SANC112,Money Laundering,CUST3050
+SANC121,Money Laundering,CUST0445
+SANC076,Money Laundering,CUST3589
+SANC514,Money Laundering,CUST2567
+SANC049,Money Laundering,CUST4107
+SANC148,Money Laundering,CUST3910
+SANC093,Money Laundering,CUST0226
+SANC362,Money Laundering,CUST1977
+SANC395,Money Laundering,CUST3791
+SANC450,Money Laundering,CUST1208
+SANC487,Money Laundering,CUST4517
+SANC092,Money Laundering,CUST0695
+SANC231,Money Laundering,CUST1613
+SANC376,Money Laundering,CUST0280
+SANC502,Money Laundering,CUST0905
+SANC383,Money Laundering,CUST1261
+SANC003,Money Laundering,CUST0661
+SANC096,Money Laundering,CUST3122
+SANC530,Money Laundering,CUST1159
+SANC399,Money Laundering,CUST0276
+SANC440,Money Laundering,CUST3264
+SANC246,Money Laundering,CUST1416
+SANC326,Money Laundering,CUST3046
+SANC423,Money Laundering,CUST3425
+SANC327,Money Laundering,CUST3091
+SANC013,Money Laundering,CUST2653
+SANC089,Money Laundering,CUST0868
+SANC319,Money Laundering,CUST3025
+SANC140,Money Laundering,CUST3869
+SANC406,Money Laundering,CUST4275
+SANC367,Money Laundering,CUST2874
+SANC296,Money Laundering,CUST3997
+SANC193,Money Laundering,CUST2580
+SANC077,Money Laundering,CUST4322
+SANC209,Money Laundering,CUST1073
+SANC126,Money Laundering,CUST0373
+SANC390,Money Laundering,CUST2649
+SANC431,Money Laundering,CUST3807
+SANC494,Money Laundering,CUST4051
+SANC256,Money Laundering,CUST3183
+SANC455,Money Laundering,CUST1562
+SANC122,Money Laundering,CUST3711
+SANC045,Money Laundering,CUST4148
+SANC408,Money Laundering,CUST2259
+SANC149,Money Laundering,CUST3532
+SANC166,Money Laundering,CUST4823
+SANC270,Money Laundering,CUST4281
+SANC522,Money Laundering,CUST4915
+SANC235,Money Laundering,CUST4826
+SANC512,Money Laundering,CUST2026
+SANC210,Money Laundering,CUST0091
+SANC207,Money Laundering,CUST0553
+SANC183,Money Laundering,CUST0573
+SANC164,Money Laundering,CUST2427
+SANC430,Money Laundering,CUST1670
+SANC401,Money Laundering,CUST0786
+SANC099,Money Laundering,CUST0947
+SANC454,Money Laundering,CUST2297
+SANC056,Money Laundering,CUST4791
+SANC180,Money Laundering,CUST4010
+SANC245,Money Laundering,CUST4204
+SANC136,Money Laundering,CUST4234
+SANC540,Money Laundering,CUST3141
+SANC111,Money Laundering,CUST2179
+SANC175,Money Laundering,CUST0592
+SANC118,Money Laundering,CUST4981
+SANC432,Money Laundering,CUST0686
+SANC338,Money Laundering,CUST2139
+SANC384,Money Laundering,CUST0367
+SANC285,Money Laundering,CUST2103
+SANC276,Corruption,CUST3086
+SANC263,Corruption,CUST0302
+SANC252,Corruption,CUST1308
+SANC539,Corruption,CUST3141
+SANC335,Corruption,CUST0255
+SANC273,Corruption,CUST3693
+SANC170,Corruption,CUST0385
+SANC462,Corruption,CUST4535
+SANC188,Corruption,CUST0645
+SANC515,Corruption,CUST2567
+SANC190,Corruption,CUST1123
+SANC500,Corruption,CUST4563
+SANC474,Corruption,CUST0108
+SANC131,Corruption,CUST4512
+SANC004,Corruption,CUST0112
+SANC290,Corruption,CUST2486
+SANC442,Corruption,CUST2523
+SANC158,Corruption,CUST2325
+SANC482,Corruption,CUST2458
+SANC347,Corruption,CUST0510
+SANC294,Corruption,CUST1575
+SANC476,Corruption,CUST4670
+SANC505,Corruption,CUST0890
+SANC224,Corruption,CUST2378
+SANC337,Corruption,CUST2664
+SANC400,Corruption,CUST3268
+SANC123,Corruption,CUST2835
+SANC021,Corruption,CUST1844
+SANC150,Corruption,CUST2515
+SANC015,Corruption,CUST2073
+SANC139,Corruption,CUST2667
+SANC101,Corruption,CUST0205
+SANC281,Corruption,CUST3156
+SANC425,Corruption,CUST3214
+SANC394,Corruption,CUST3900
+SANC010,Corruption,CUST0751
+SANC360,Corruption,CUST4576
+SANC486,Corruption,CUST3079
+SANC287,Corruption,CUST3623
+SANC286,Corruption,CUST0781
+SANC488,Corruption,CUST4249
+SANC331,Corruption,CUST0491
+SANC503,Corruption,CUST0905
+SANC024,Corruption,CUST0313
+SANC120,Corruption,CUST4000
+SANC438,Corruption,CUST0590
+SANC511,Corruption,CUST2026
+SANC284,Corruption,CUST1017
+SANC389,Corruption,CUST0181
+SANC405,Corruption,CUST0288
+SANC057,Corruption,CUST4297
+SANC517,Corruption,CUST0922
+SANC413,Corruption,CUST1538
+SANC534,Corruption,CUST4562
+SANC026,Corruption,CUST0287
+SANC277,Corruption,CUST2510
+SANC305,Corruption,CUST2351
+SANC414,Corruption,CUST3944
+SANC519,Corruption,CUST0816
+SANC386,Corruption,CUST3989
+SANC094,Corruption,CUST0429
+SANC479,Corruption,CUST3927
+SANC278,Corruption,CUST2552
+SANC311,Corruption,CUST3519
+SANC240,Corruption,CUST4620
+SANC470,Corruption,CUST2460
+SANC067,Corruption,CUST4156
+SANC310,Corruption,CUST3603
+SANC064,Corruption,CUST2290
+SANC546,Corruption,CUST0853
+SANC291,Corruption,CUST0557
+SANC174,Corruption,CUST3625
+SANC022,Corruption,CUST1535
+SANC513,Corruption,CUST2026
+SANC226,Corruption,CUST1006
+SANC169,Corruption,CUST3635
+SANC466,Corruption,CUST1231
+SANC501,Corruption,CUST0905
+SANC333,Corruption,CUST1847
+SANC516,Corruption,CUST2567
+SANC342,Corruption,CUST3465
+SANC211,Corruption,CUST4661
+SANC304,Corruption,CUST3210
+SANC537,Corruption,CUST3361
+SANC216,Corruption,CUST1516
+SANC016,Corruption,CUST3988
+SANC225,Corruption,CUST2958
+SANC321,Corruption,CUST2446
+SANC371,Corruption,CUST3819
+SANC458,Corruption,CUST4470
+SANC059,Corruption,CUST4622
+SANC336,Corruption,CUST4061
+SANC115,Corruption,CUST2272
+SANC086,Corruption,CUST1568
+SANC044,Corruption,CUST1088
+SANC366,Corruption,CUST4139
+SANC504,Corruption,CUST1539
+SANC102,Corruption,CUST1916
+SANC542,Corruption,CUST2747
+SANC075,Corruption,CUST4254
+SANC063,Corruption,CUST0236
+SANC145,Corruption,CUST0456
+SANC467,Corruption,CUST4892
+SANC282,Corruption,CUST4426
+SANC244,Corruption,CUST0787
+SANC354,Corruption,CUST4063
+SANC055,Corruption,CUST2106
+SANC152,Corruption,CUST4073
+SANC289,Corruption,CUST3713
+SANC424,Corruption,CUST0820
+SANC422,Organized Crime,CUST0898
+SANC460,Organized Crime,CUST1385
+SANC302,Organized Crime,CUST0159
+SANC456,Organized Crime,CUST1282
+SANC011,Organized Crime,CUST1355
+SANC213,Organized Crime,CUST1127
+SANC344,Organized Crime,CUST4840
+SANC034,Organized Crime,CUST3042
+SANC279,Organized Crime,CUST1829
+SANC490,Organized Crime,CUST4950
+SANC508,Organized Crime,CUST0600
+SANC283,Organized Crime,CUST4584
+SANC351,Organized Crime,CUST2151
+SANC018,Organized Crime,CUST3119
+SANC087,Organized Crime,CUST4369
+SANC457,Organized Crime,CUST4498
+SANC421,Organized Crime,CUST1979
+SANC328,Organized Crime,CUST3748
+SANC551,Organized Crime,CUST2418
+SANC361,Organized Crime,CUST0803
+SANC489,Organized Crime,CUST3002
+SANC151,Organized Crime,CUST0462
+SANC171,Organized Crime,CUST4649
+SANC229,Organized Crime,CUST4671
+SANC359,Organized Crime,CUST2262
+SANC465,Organized Crime,CUST0204
+SANC065,Organized Crime,CUST0931
+SANC047,Organized Crime,CUST0779
+SANC373,Organized Crime,CUST2413
+SANC472,Organized Crime,CUST3992
+SANC409,Organized Crime,CUST3919
+SANC254,Organized Crime,CUST1783
+SANC544,Organized Crime,CUST2747
+SANC050,Organized Crime,CUST2891
+SANC315,Organized Crime,CUST2755
+SANC079,Organized Crime,CUST0329
+SANC073,Organized Crime,CUST2962
+SANC218,Organized Crime,CUST2020
+SANC091,Organized Crime,CUST4820
+SANC142,Organized Crime,CUST3148
+SANC313,Organized Crime,CUST1508
+SANC293,Organized Crime,CUST0697
+SANC002,Organized Crime,CUST3366
+SANC523,Organized Crime,CUST4915
+SANC349,Organized Crime,CUST4444
+SANC052,Organized Crime,CUST4582
+SANC368,Organized Crime,CUST4930
+SANC205,Organized Crime,CUST2865
+SANC143,Organized Crime,CUST1990
+SANC318,Organized Crime,CUST2243
+SANC070,Organized Crime,CUST0003
+SANC419,Organized Crime,CUST3452
+SANC195,Organized Crime,CUST1669
+SANC081,Organized Crime,CUST2431
+SANC006,Organized Crime,CUST2925
+SANC058,Organized Crime,CUST2412
+SANC005,Organized Crime,CUST1354
+SANC192,Organized Crime,CUST3428
+SANC129,Organized Crime,CUST1701
+SANC167,Organized Crime,CUST2078
+SANC100,Organized Crime,CUST3140
+SANC407,Organized Crime,CUST2901
+SANC172,Organized Crime,CUST3361
+SANC267,Organized Crime,CUST4465
+SANC411,Organized Crime,CUST4094
+SANC357,Organized Crime,CUST1336
+SANC104,Organized Crime,CUST1870
+SANC189,Organized Crime,CUST4282
+SANC249,Organized Crime,CUST1645
+SANC339,Organized Crime,CUST3928
+SANC062,Organized Crime,CUST1443
+SANC429,Organized Crime,CUST4973
+SANC201,Organized Crime,CUST4673
+SANC469,Organized Crime,CUST2470
+SANC353,Organized Crime,CUST2919
+SANC550,Organized Crime,CUST3874
+SANC299,Organized Crime,CUST2170
+SANC009,Organized Crime,CUST3449
+SANC033,Organized Crime,CUST2118
+SANC449,Organized Crime,CUST1932
+SANC452,Organized Crime,CUST2391
+SANC445,Organized Crime,CUST0187
+SANC080,Organized Crime,CUST0297
+SANC398,Organized Crime,CUST0994
+SANC239,Organized Crime,CUST0945
+SANC116,Organized Crime,CUST0928
+SANC196,Organized Crime,CUST2911
+SANC477,Organized Crime,CUST3324
+SANC223,Organized Crime,CUST4747
+SANC238,Organized Crime,CUST4418
+SANC019,Organized Crime,CUST1451
+SANC275,Organized Crime,CUST1013
+SANC323,Organized Crime,CUST0822
+SANC038,Organized Crime,CUST3715
+SANC241,Organized Crime,CUST1068
+SANC135,Organized Crime,CUST0543
+SANC459,Organized Crime,CUST2690
+SANC144,Organized Crime,CUST2279
+SANC133,Organized Crime,CUST2000
+SANC365,Organized Crime,CUST2531
+SANC364,Organized Crime,CUST3263
+SANC524,Organized Crime,CUST2140
+SANC350,Organized Crime,CUST0398
+SANC428,Organized Crime,CUST0616
+SANC194,Organized Crime,CUST3958
+SANC117,Organized Crime,CUST2214
+SANC420,Organized Crime,CUST2803
+SANC048,Organized Crime,CUST4190
+SANC221,Organized Crime,CUST1862
+SANC341,Organized Crime,CUST0336
+SANC375,Terrorist Financing,CUST2872
+SANC343,Organized Crime,CUST4206
